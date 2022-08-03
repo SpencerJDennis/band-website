@@ -37,6 +37,8 @@ body {
   }
 
   .header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
     text-align: center;
     border: solid black;
     border-width: 5px;
